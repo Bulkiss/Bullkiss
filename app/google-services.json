@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "1023548114499",
+    "firebase_url": "https://bullkiss-da91e.firebaseio.com",
+    "project_id": "bullkiss-da91e",
+    "storage_bucket": "bullkiss-da91e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023548114499:android:7dfa1d6efbf4e379",
+        "android_client_info": {
+          "package_name": "club.bullkiss.bullkiss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023548114499-eq0s7487cbka4f420ncd8ej8uckouh5g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "club.bullkiss.bullkiss",
+            "certificate_hash": "31033f87d414fd66629791aeace5575c68ab65aa"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCOM6yS-FwOQrm0iUWcH_GsOiXeaN6ovE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023548114499-uu3i4qi1csrtirrfkbkimdt0ej8j5tmo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
