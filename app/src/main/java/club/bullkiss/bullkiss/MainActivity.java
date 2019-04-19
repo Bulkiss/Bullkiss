@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
 // TODO TEST OF GIT :)
 // TODO ATTEMPT LOGIN DURING SPLASH SCREEN
 
-        /****** SPLASH SCREEN ****/
+//        /****** SPLASH SCREEN ****/
         Thread background = new Thread() {
             public void run() {
                 try {
