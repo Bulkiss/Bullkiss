@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         test = 1;
-
+// TODO TEST OF GIT :)
 // TODO ATTEMPT LOGIN DURING SPLASH SCREEN
 
         /****** SPLASH SCREEN ****/
